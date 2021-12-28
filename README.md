@@ -3,11 +3,11 @@
 Hi, I'm <a href="https://github.com/Abdi-01">Abdi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/" style="margin-right:20px">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+<a href="https://www.youtube.com/channel/UCBye8Lbp-Q7HvvwWJ5jwr8Q" style="margin-right:20px">
+  <img align="left" alt="Abdi Alghi" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/" style="margin-right:20px">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/abdi-alghifara-felinanda-40575518b/" style="margin-right:20px">
+  <img align="left" alt="Abdi Alghi" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br/>
