@@ -39,6 +39,11 @@ I create some content about technology and coding at my **Youtube Channel**.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
 
+**Project List**
+- <a href="https://eteratrade.com/">Eteratrade</a> [Under Maintenance]
+- <a href="https://www.youtube.com/watch?v=FVAKGbsDop8&t=1s">Ground Control Station for Android project</a> [Video Preview]
+
+
 **📈 Github Stats**
 
 [![Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdi-01&count_private=true&show_icons=true&theme=dark)](https://github.com/Abdi-01/github-readme-stats)
